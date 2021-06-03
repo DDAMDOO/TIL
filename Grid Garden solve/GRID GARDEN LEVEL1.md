@@ -16,6 +16,6 @@
 }
 ```
 
-![level1](.\assets\level1.png)
+![level1](./assets/level1.png)
 
 해당 문제는 설명에서도 나온 것 처럼 grid-column-start : 3; 이라는 속성을 부여하여서 물의 위치를 바꾸는 것으로 해결할 수 있다.
