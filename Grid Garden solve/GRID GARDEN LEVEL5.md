@@ -17,7 +17,7 @@
 }
 ```
 
-![level5](../assets/level5.png)
+![level5](./assets/level5.png)
 
 여태까지의 문제들과 같고, column-end의 값인 인덱스 설정을 음수로 했을 때의 결과를 구하는 문제이다.
 
