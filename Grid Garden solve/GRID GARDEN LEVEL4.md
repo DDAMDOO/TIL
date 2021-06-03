@@ -17,6 +17,6 @@ grid-column-end : 2;
 }
 ```
 
-![level4](./assets/level4.png)
+![level4](../assets/level4.png)
 
 이 문제는 시작점과 끝점의 순서를 반대로 하여 5번 가로선부터 2번 가로선으로 하는 문제이다.
