@@ -14,7 +14,7 @@ grid-column-start : 5;
 }
 ```
 
-![image-20210603093956286](..\assets\level2.png)
+![level2](.\assets\level2.png)
 
 level 1과 마찬가지로 grid-column-start : 5; 이라는 속성을 부여하여서 물의 위치를 바꾸는 것으로 해결할 수 있다.
 
