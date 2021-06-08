@@ -21,6 +21,6 @@
 }
 ```
 
-![image-20210608093137587](FLEXBOX FROGGY LEVEL1.assets/image-20210608093137587.png)
+![image-20210608093137587](./FLEXBOX FROGGY LEVEL1.assets/image-20210608093137587.png)
 
 해당 문제는 설명에서도 나온 것 처럼 justify-content : flex-end를 통해서 오른쪽으로 element를 정렬하여 해결할 수 있다.
