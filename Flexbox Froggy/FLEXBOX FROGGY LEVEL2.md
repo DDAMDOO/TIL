@@ -19,6 +19,6 @@
 }
 ```
 
-![image-20210608132148625](D:\git_repo\TIL\Flexbox Froggy\assets\image-20210608132148625.png)
+![image-20210608132148625](./assets/image-20210608132148625.png)
 
 해당 문제는 설명에서도 나온 것 처럼 justify-content : center를 통해서 element를 가운데 정렬하여 해결할 수 있다.
